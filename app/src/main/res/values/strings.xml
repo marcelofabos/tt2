@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">totu</string>
+
+    <string name="botonsiguiente">Siguiente</string>
+    <string name="tc1">Elija, compra y comienza a \n disfrutar de la mejor experiencia.</string>
+
+    <string name="botonsiguiente2">Siguiente</string>
+    <string name="tc2">Vive una experiencia única en tu \n compra a traves de nuestra plataforma</string>
+    <string name="botonanterior">Anterior</string>
+
+    <string name="tc3">Haz que tus ingresos rindan más y \n toma el control de tus finanzas</string>
+    <string name="botonanterior2">Anterior</string>
+
+</resources>
